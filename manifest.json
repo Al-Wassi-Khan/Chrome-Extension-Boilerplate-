@@ -1,0 +1,12 @@
+{
+    "name": "YOUR_EXTENSION_NAME",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "YOUR_HTML_FILE_PATH",
+        "default_icon": "YOUR_ICON_PATH"
+    },
+    "icons": {
+        "128": "YOUR_ICON_PATH"
+    }
+}
